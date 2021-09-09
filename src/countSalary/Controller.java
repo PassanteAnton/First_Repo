@@ -52,6 +52,8 @@ public class Controller {
                 }
 
             }
+
+
         model.countSalary(ConsoleHelper.insertRevenue());
         ConsoleHelper.writeMessage(view.writeAddedMasters());
 
